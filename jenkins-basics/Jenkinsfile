@@ -29,7 +29,7 @@ pipeline {
         stage('Website is Live') {
             steps {
                 // Display a message indicating the website is live
-                echo "Your website is live now!"
+                echo "Mukta Your website is live now!"
             }
         }
     }
